@@ -1,0 +1,7 @@
+Flask
+Flask-bootstrap
+Flask-wtf
+Flask-testing
+Blinker
+Firebase-admin
+Flask-login
